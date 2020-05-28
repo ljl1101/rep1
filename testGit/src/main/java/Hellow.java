@@ -5,5 +5,11 @@ public class Hellow {
         String s="sdsds";
         String sa="fdf";
           String sa1="ffffffffffdf";
+                String s="sdsds";
+        String sa="fdf";
+          String sa1="ffffffffffdf";
+                String s="sdsds";
+        String sa="fdf";
+          String sa1="ffffffffffdf";
     }
 }
