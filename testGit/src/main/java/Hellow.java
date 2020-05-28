@@ -4,6 +4,6 @@ public class Hellow {
         int i1=1;
         String s="sdsds";
         String sa="fdf";
-          String sa="ffffffffffdf";
+          String sa1="ffffffffffdf";
     }
 }
